@@ -1,0 +1,7 @@
+http://127.0.0.1:8080/Server/services/getContent
+http://127.0.0.1:8080/Server/services/getContent2
+http://127.0.0.1:8080/Server/services/getContent3
+/ExIAServer/services//getContent3
+/ExIAServer/services//getContent3
+/ExIAServer/services//getContent344
+
